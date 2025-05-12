@@ -28,6 +28,7 @@ public class Kavi {
 		System.out.println(945.0*15.5 * 45); //double*float *int
 		System.out.println(1200 - 32.5 * 769.0 - 21); //int - float *double - int
 		System.out.println(345.0 / 42.5 + 34 + 345 - 213 *93); //double/float%int+int-int*int
+		System.out.println("Suceesfully completed git dev");
 	
 		
 
